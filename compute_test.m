@@ -1,5 +1,3 @@
-%compute performance
-
 clc
 clear all
 close all
